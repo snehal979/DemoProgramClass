@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\bin\Debug\net6.0\LogicalProgramDemo.exe
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\bin\Debug\net6.0\LogicalProgramDemo.deps.json
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\bin\Debug\net6.0\LogicalProgramDemo.runtimeconfig.json
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\bin\Debug\net6.0\LogicalProgramDemo.dll
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\bin\Debug\net6.0\LogicalProgramDemo.pdb
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\LogicalProgramDemo.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\LogicalProgramDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\LogicalProgramDemo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\LogicalProgramDemo.AssemblyInfo.cs
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\LogicalProgramDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\LogicalProgramDemo.dll
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\refint\LogicalProgramDemo.dll
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\LogicalProgramDemo.pdb
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\LogicalProgramDemo.genruntimeconfig.cache
+C:\Users\hp\Desktop\project\LogicalProgramDemo\LogicalProgramDemo\obj\Debug\net6.0\ref\LogicalProgramDemo.dll
